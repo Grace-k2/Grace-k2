@@ -1,7 +1,9 @@
 <div align="center">
-<img src="./profile.jpeg" alt="Profile Picture" width="160" height="160" style="border-radius: 50%;">
-# Hi there, I'm Mbabazi Grace 👋
+<img src="./Me.jpeg" alt="Profile Picture" width="160" height="160" style="border-radius: 50%;">
 </div>
+---
+  # Hi there, I'm Mbabazi Grace 👋
+
 
 ---
 ### 🎓 About Me
