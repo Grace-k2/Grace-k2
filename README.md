@@ -1,16 +1,72 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Grace-k2/Grace-k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- PROFILE PICTURE: Upload your picture (me.wps.jpeg) to your repo and update the path below -->
+<img src="./profile.wps.jpeg" alt="Profile Picture" width="160" height="160" style="border-radius: 50%;">
+# Hi there, I'm Mbabazi Grace 👋
+</div>
 
-Here are some ideas to get you started:
+---
+### 🎓 About Me
+- I am pursuing a B.Sc. in **Data Science & Analytics** at Uganda Christian University (UCU).
+- 🎯 **Career Goal:** Applying data analytics, software development, and AI to solve real-world challenges in **healthcare** and the **environment**.
+- 🌱 **Currently Learning:** Python, Pandas, data manipulation, algorithm design, data analysis with Seaborn and Matplotlib and version control with Git/GitHub.
+- 💬 **Ask me about:** Introductory Python,data visualization, computer hardware basics, and computer networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Data Tools:**
+- `Python` | `Pandas` | `Jupyter Notebooks` | `SQL`| `Matplotlib` | `Seaborn` | `Numpy`
+
+**Platforms & Version Control:**
+- `Git` | `GitHub` | `Kaggle`| `geeksforgeeks
+
+**Core Operating & Computer Systems:**
+- System Architecture, Computer Hardware, Basic Networking Topologies
+
+---
+## 🛠️ Tech Stack & Skills
+
+**Data Science & Analytics:**
+- `Python` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Jupyter Notebooks` | `SQL`
+
+**Systems & Networking Concepts:**
+- `Computer Hardware Architecture` | `CPU Thermal & Power Management` | `Network Topologies`
+
+**Tools & Version Control:**
+- `Git` | `GitHub` | `VS Code` | `Kaggle`
+
+## 📁 Key Projects & Coursework
+
+### 1. 📊 Data Manipulation & Analytics Exercises
+- **Description:** A collection of Python scripts and Jupyter Notebooks focusing on computing statistics (e.g., standard deviation, distribution skewness) and handling data frames using Pandas.
+- **Tools:** Python, Pandas, Jupyter Notebooks
+- **Link:** [View Repository](https://github.com/Grace-k2/Prob-stat) 
+### 💻 Computer Systems & Hardware
+- **Hardware & CPU Thermal Analysis Report:**
+  - **Description:** Academic investigation and report into system architecture, thermal throttling, and hardware memory hierarchies.
+  - **Tools:** Technical Documentation, System Diagnostics
+  - **Link:** [View Repository](https://github.com/your-username/computer-hardware-analysis)
+
+- **Network Topologies & Infrastructure Summary:**
+  - **Description:** Coursework covering basic computer networking models, protocols, and topology structures.
+  
+### 🤖 Logic & Algorithmic Foundations
+- **Karel Structural Logic Solutions:**
+  - **Description:** Algorithmic execution and problem-solving scripts using conditional execution and loop structures.
+  - **Tools:** Python, `stanfordkarel`
+  - **Link:** [View Repository](https://github.com/Grace-k2/structured-programming)
+
+---
+
+## 📫 How to Reach Me
+- 📧 **Email:** gracembabazi756@gmail.com
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/grace-mbabazi-8bb2bb336/)
+- 📊 **Kaggle:** [Your Kaggle Profile](https://www.kaggle.com/gracembabazi)
+
+---
+<div align="center">
+<i>"Building tools and leveraging data to drive meaningful impacts in health and sustainability."</i>
+</div>
+*“Building tools and leveraging data to drive meaningful impacts in health and sustainability.”*
