@@ -1,6 +1,4 @@
 <div align="center">
-
-<!-- PROFILE PICTURE: Upload your picture (me.jpeg) to your repo and update the path below -->
 <img src="./profile.jpeg" alt="Profile Picture" width="160" height="160" style="border-radius: 50%;">
 # Hi there, I'm Mbabazi Grace 👋
 </div>
